@@ -30,13 +30,9 @@ This project analyzes survey data from the 2023 Behavioral Risk Factor Surveilla
 - **Alcohol Frequency vs. Marijuana Use** (bar plot)
 - **Age Distribution of Marijuana Users** (pie chart)
 
-<p align="center">
-  <img src="figures/mj_vs_mentalhealth.png" width="400">
-  <img src="figures/age_distribution.png" width="400">
-</p>
-
 ---
 
 ## File Structure
+The main anlysis is in the file **data_clean.ipynb**
 
 # public-health-behaviour-data-analysis---marijuana-use
